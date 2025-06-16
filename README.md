@@ -39,7 +39,7 @@ Diet-Plan-Generator/
 ### 🔧 Prerequisites
 
 - Python 3.9+
-- A Groq API Key (Get one [here](https://console.groq.com/))
+- A Groq API Key
 
 ---
 
